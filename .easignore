@@ -1,0 +1,17 @@
+# Entries in this file are relative to the project root.
+
+# Ignore local build artifacts.
+/android
+/ios
+/dist
+
+# Ignore local development files.
+.expo/
+npm-debug.log*
+*.jks
+*.p12
+*.keystore
+secrets.json
+
+# Ignore node_modules.
+/node_modules
